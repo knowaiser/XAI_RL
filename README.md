@@ -18,7 +18,7 @@ pip install -r requirements.txt
 Using conda:
 ```bash
 conda env create -f environment.yml
-conda activate your-environment-name
+conda activate carlaenv
 ```
 
 
